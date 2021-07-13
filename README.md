@@ -1,6 +1,6 @@
 # Campaign_Analysis
 
-This is a trend, preformance and customer analysis on campaign data base.
+This is a trend, preformance and demographics analysis on campaign data base.
 
 # high-level overview statement about campaigns’ status, including the most important aggregated metrics such as sales, costs, performance (CPA, CPC) 
 Conversion rate median is 0.073, meaning half of the campaigns will count a conversion once in 10,000 clicks, and so far regarding the 3 months analysis reached only 0.825 conversions.
